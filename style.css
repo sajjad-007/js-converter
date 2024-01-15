@@ -31,9 +31,11 @@ h4 {
     width: 100%;
     height: 400px;
     overflow: hidden;
+    text-align: center;
 }
 .emty.img{
     height: 100%;
     width: 100%;
     object-fit: cover;
+    display: inline-block;
 }
